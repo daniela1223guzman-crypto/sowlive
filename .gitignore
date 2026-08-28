@@ -1,0 +1,19 @@
+# Dependencias (se regeneran con npm install)
+node_modules/
+
+# Variables de entorno reales (nunca subir contraseñas/credenciales)
+.env
+.env.local
+
+# Builds
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor / sistema operativo
+.DS_Store
+.vscode/
+.idea/
